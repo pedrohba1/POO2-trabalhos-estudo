@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UIFreeCell",
+            "request": "launch",
+            "mainClass": "freecell.view.UIFreeCell",
+            "projectName": "FreeCell"
+        }
+    ]
+}
